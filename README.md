@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning and improving Java
 - 💬 Contact me by email iascalistro@gmail.com
 ##
-https://cdn.discordapp.com/attachments/788939021387694110/1133227380912164936/download20230701233635.png
+
+<img aling="rigth" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/788939021387694110/1133227380912164936/download20230701233635.png">
+
 
 ![Snake animation](https://github.com/iasmimcalistro/blob/output/github-contribution-grid-snake.svg)
