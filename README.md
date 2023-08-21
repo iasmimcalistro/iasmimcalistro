@@ -9,4 +9,4 @@
 <img aling="rigth" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/788939021387694110/1133227380912164936/download20230701233635.png">
 
 
-![Snake animation](https://github.com/iasmimcalistro/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/iasmimcalistro/iasmimcalistro/blob/output/github-contribution-grid-snake.gif)
